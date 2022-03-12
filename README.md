@@ -1,9 +1,9 @@
 ### Olá, 😀👋
 
 
-- 🔭 Atualmente estou trabalhando no meu aplicativo de finanças
+- 🔭 Atualmente trabalho na Atos como Técnico em Desenvolvimento de Sistemas I e estudo Sistemas de Informação; 
 
-- 🌱 Estou expandindo conhecimentos em: C#/.NET CORE
+- 🌱 Estou trabalhando com: C#/.NET CORE e outras tecnologias;
 
 - 📫 Como entrar em contato comigo: https://www.linkedin.com/in/murilo-pfeifer-969952228/
 

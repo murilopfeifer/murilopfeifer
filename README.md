@@ -1,4 +1,4 @@
-### Olá, 😀👋
+### Olá 👋
 
 
 - 🔭 Atualmente trabalho na Atos como Técnico em Desenvolvimento de Sistemas I e estudo Sistemas de Informação; 

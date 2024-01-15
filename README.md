@@ -1,9 +1,9 @@
 ### Olá 👋
 
 
-- 🔭 Atualmente trabalho na Atos como Técnico em Desenvolvimento de Sistemas I e estudo Sistemas de Informação; 
+- 🔭 Atualmente trabalho na Atos como Analista de Sistemas I e sou recém formado em Sistemas de Informação; 
 
-- 🌱 Estou trabalhando com: C#/.NET CORE e outras tecnologias;
+- 🌱 Estou trabalhando com: C#/.NET CORE, SQL Server, Oracle DB e outras tecnologias Web;
 
 - 📫 Como entrar em contato comigo: https://www.linkedin.com/in/murilo-pfeifer-969952228/
 

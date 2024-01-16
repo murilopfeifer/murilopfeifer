@@ -5,7 +5,7 @@
 
 - 🌱 Estou trabalhando com: C#/.NET CORE, SQL Server, Oracle DB e outras tecnologias Web;
 
-- 📫 Como entrar em contato comigo: https://www.linkedin.com/in/murilo-pfeifer-969952228/
+- 📫 Como entrar em contato comigo: linkedin.com/in/murilo-pfeifer
 
 ##
 

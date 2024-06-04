@@ -1,7 +1,7 @@
 ### Olá 👋
 
 
-- 🔭 Atualmente trabalho na Atos como Analista de Sistemas I e sou recém formado em Sistemas de Informação; 
+- 🔭 Trabalho na Atos como Analista de Sistemas e sou formado em Sistemas de Informação; 
 
 - 🌱 Estou trabalhando com: C#/.NET CORE, SQL Server, Oracle DB e outras tecnologias Web;
 
